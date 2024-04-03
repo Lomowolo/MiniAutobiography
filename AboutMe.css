@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+  }
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.Menu_links{
+    display: flex;
+    align-items:center;
+    list-style: none;
+    text-align: center
+}
+
+.Page_links{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 0 1rem;
+    font-family: Helvetica, sans-serif;
+    height: 100%;
+    font-size: 30px;
+    cursor: pointer;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.Page_links:hover{
+    transition: all 0.5s ease;
+    color: #1A1A1A;
+}
+
+.Extra_Pages{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+pre{
+    display: block;
+    font-size: 20px;
+    color:white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+p{
+    font-size: 25px;
+}
