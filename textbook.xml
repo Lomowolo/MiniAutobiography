@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textbooks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="textbook.xsd">
+    <textbook>
+        <title>File system Forensics Analysis</title>
+        <authors>
+            <author>
+                <first_name>Brian</first_name>
+                <last_name>Carrier</last_name>
+            </author>
+        </authors>
+        <publisher>
+            <name>Addison Wesley</name>
+            <website>http://www.awprofessional.com/</website>
+        </publisher>
+        <year>2005</year>
+        <ISBN>032-1268172</ISBN>
+        <edition>1st</edition>
+        <cover>paperback</cover>
+    </textbook>
+    <textbook>
+        <title>Cryptography and Network Security: Principles and Practice</title>
+        <authors>
+            <author>
+                <first_name>William</first_name>
+                <last_name>Stallings</last_name>
+            </author>
+        </authors>
+        <publisher>
+            <name>Pearson</name>
+            <website>https://www.pearson.com</website>
+        </publisher>
+        <year>2017</year>
+        <ISBN>978-0164444284</ISBN>
+        <edition>7th</edition>
+        <cover>hardcover</cover>
+    </textbook>
+</textbooks>
